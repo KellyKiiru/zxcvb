@@ -1,0 +1,31 @@
+.header h2.full-stack{
+    color: rgb(4, 2, 2);
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    position: relative;
+    /* right: 50px; */
+    top: 150px;
+    display:inline-block;
+    -webkit-transform:scale(2,2);
+    z-index: 1200;
+}
+.full-stack{
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+    line-height: 70px;
+    font-size: xx-large;
+    font-weight: 900;
+}
+/* header p{
+
+    display:inline-block;
+    -webkit-transform:scale(3,1);
+} */
+
+/* 
+.second.second{
+    display: flex;
+    justify-content: space-evenly;
+
+} */
